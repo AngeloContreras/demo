@@ -1,0 +1,12 @@
+cloudbankdb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g09961dbf11adbc_cloudbankdb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+cloudbankdb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g09961dbf11adbc_cloudbankdb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+cloudbankdb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g09961dbf11adbc_cloudbankdb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+cloudbankdb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g09961dbf11adbc_cloudbankdb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+cloudbankdb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g09961dbf11adbc_cloudbankdb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
